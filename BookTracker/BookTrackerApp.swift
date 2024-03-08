@@ -9,7 +9,7 @@ import SwiftData
 import SwiftUI
 
 @main
-    struct BookTrackerApp: App {
+struct BookTrackerApp: App {
     var body: some Scene {
         WindowGroup {
             ContentView()
